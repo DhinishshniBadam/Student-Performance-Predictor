@@ -33,7 +33,7 @@ The dataset is taken from a public student performance dataset (included in the 
 
 # Example Prediction
 
-Attached with(screenshot.png)
+![](screenshot.png)
 
 # Author
 
